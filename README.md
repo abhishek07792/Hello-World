@@ -1,2 +1,2 @@
 # Hello-World
-To print Hello World using python language.
+To print Hello World using C language.
